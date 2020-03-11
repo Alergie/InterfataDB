@@ -7,4 +7,4 @@ Interfata pentru o baza de date creata pe localhost cu xampp pentru o baza de da
 **edit 1** Din greseala s-a sters tot proiectul si a trebuit sa folosesc .NET Reflector sa refac aplicatia  
 **edit 2** In form.designer.cs nu se mai gaseste nimic, totul e in form.cs
 
-![Interfara BD](Capture1.png)
+![Interfara BD](/relative/path/to/Capture1.png?raw=true)
